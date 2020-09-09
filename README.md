@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+about me: [yasio.pl](https://yasio.pl)
+
 <!--
 **YasiOnFire/YasiOnFire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
