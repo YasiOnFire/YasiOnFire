@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Yasio. I Design and Develop things.
 
-about me: [yasio.pl](https://yasio.pl)
+About me: [yasio.pl](https://yasio.pl)
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S82QDOW)
 
 <!--
 **YasiOnFire/YasiOnFire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
