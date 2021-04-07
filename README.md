@@ -1,20 +1,19 @@
-### Hi there 👋 I'm Yasio. I Design and Develop things.
+# Hi there 👋 I'm Yasio. I Design and Develop things.
 
-About me: [yasio.pl](https://yasio.pl)
+- 👨🏻‍💼 [LinkedIn](https://www.linkedin.com/in/janbaszczok/)
+- 🐓 [Twitter](https://twitter.com/YasiOnFire)
+- 🖊 [CodePen](https://codepen.io/Yasio)
+- 🎮 [Google Play Store Apps/Games](https://play.google.com/store/apps/developer?id=YAS.IO)
+- 👨🏻‍🏫 [Pluralsight](https://app.pluralsight.com/profile/jan-baszczok)
+
+### ⚡ More about me: [yasio.pl](https://yasio.pl)
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S82QDOW)
 
-<!--
-**YasiOnFire/YasiOnFire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+Check some tools/apps i've made:
+- 📫 [https://mail-cat.cc](https://mail-cat.cc)
+- 🎈 [https://boardretro.party](https://boardretro.party)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
