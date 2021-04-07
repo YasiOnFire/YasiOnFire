@@ -17,3 +17,7 @@ Check some tools/apps i've made:
 - 🎈 [https://boardretro.party](https://boardretro.party)
 
 ---
+![](https://komarev.com/ghpvc/?username=YasiOnFire&color=blueviolet)
+
+![Yasio GitHub stats](https://github-readme-stats.vercel.app/api?username=YasiOnFire&show_icons=true&theme=tokyonight)
+---
