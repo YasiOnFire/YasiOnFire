@@ -6,7 +6,7 @@
 - 🎮 [Google Play Store Apps/Games](https://play.google.com/store/apps/developer?id=YAS.IO)
 - 👨🏻‍🏫 [Pluralsight](https://app.pluralsight.com/profile/jan-baszczok)
 
-### ⚡ More about me: [yasio.pl](https://yasio.pl)
+### ⚡ More about me: [yasio.dev](https://yasio.dev)
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S82QDOW)
 
