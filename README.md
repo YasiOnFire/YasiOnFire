@@ -1,12 +1,14 @@
 # Hi there 👋 I'm Yasio. I Design and Develop things.
 
+### ⚡ More about me: [yasio.dev](https://yasio.dev)
+
 - 👨🏻‍💼 [LinkedIn](https://www.linkedin.com/in/janbaszczok/)
 - 🐓 [Twitter](https://twitter.com/YasiOnFire)
 - 🖊 [CodePen](https://codepen.io/Yasio)
 - 🎮 [Google Play Store Apps/Games](https://play.google.com/store/apps/developer?id=YAS.IO)
 - 👨🏻‍🏫 [Pluralsight](https://app.pluralsight.com/profile/jan-baszczok)
+- 📔 [StackOverflow](https://stackoverflow.com/users/9488284/yasio)
 
-### ⚡ More about me: [yasio.dev](https://yasio.dev)
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S82QDOW)
 
