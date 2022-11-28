@@ -1,6 +1,8 @@
 # Hi there 👋 I'm Yasio. I Design and Develop things.
 
-### ⚡ More about me: [yasio.dev](https://yasio.dev)
+### More about me:
+
+###  ⚡ [yasio.dev](https://yasio.dev)
 
 - 👨🏻‍💼 [LinkedIn](https://www.linkedin.com/in/janbaszczok/)
 - 🐓 [Twitter](https://twitter.com/YasiOnFire)
