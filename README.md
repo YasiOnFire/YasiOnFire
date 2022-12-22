@@ -1,8 +1,14 @@
-# Hi there 👋 I'm Yasio. I Design and Develop things.
+<h1 align="center">
+Hi there 👋 I'm Yasio.<br>I Design and Develop things.
+  <br><br>
+</h1>
+
+<h2 align="center">
+  ⚡ <a href="https://yasio.dev" target="_blank">yasio.dev</a> ⚡
+  <br><br>
+</h2>
 
 ### More about me:
-
-###  ⚡ [yasio.dev](https://yasio.dev)
 
 - 👨🏻‍💼 [LinkedIn](https://www.linkedin.com/in/janbaszczok/)
 - 🐓 [Twitter](https://twitter.com/YasiOnFire)
